@@ -1,1 +1,1 @@
-This is my first android project 
+This is my first SOLO android project 
